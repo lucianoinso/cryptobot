@@ -1,2 +1,2 @@
 # cryptobot
-Cryptocurrency trading bot
+Bot for cryptocurrency trading
