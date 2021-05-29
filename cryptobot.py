@@ -6,8 +6,7 @@ from datetime import datetime
 from helpers import truncate
 from binance.client import Client
 from telegram_bot import send_msg
-from constants import BNC_API_KEY as API_KEY
-from constants import BNC_API_SECRET as API_SECRET
+from constants import BNC_API_KEY as API_KEY, BNC_API_SECRET as API_SECRET
 
 
 """
@@ -184,7 +183,6 @@ def main():
             print(e)
             sleep(90)
             continue
-        
 
 
 if __name__ == '__main__':
