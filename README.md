@@ -9,7 +9,7 @@ Suppose you think "**ExampleCoin**" is gonna fluctuate from 40000$ to 45000$ for
 
 So, after the first buying, at 40500$, you'd have: (500\/40500) BTC = 0.012345679 BTC.
 
-And then, after the first selling, when "**ExampleCoin**" reaches 44500$, you'd have: (0.012345679 * 44500)$ = 549.38 $
+And then, after the first selling, when "**ExampleCoin**" reaches 44500$, you'd have: (0.012345679 * 44500)$ = 549.38$
 
 Resulting in an overall benefit of (549.38 - 500) = 49.38$.
 
